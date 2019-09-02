@@ -1,0 +1,40 @@
+{
+  "batchRetrieveActionTaskRecord" : {},
+  "cardPOSNetworkOperatingSessionInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "722457",
+    "cardTransactionMerchantReference" : "760412",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "708224",
+    "cardPOSTerminalOperatingSchedule" : "cardPOSTerminalOperatingSchedule",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "734098",
+    "cardTransactionLocationReference" : "755155",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionIssuedDeviceReference" : "725008",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "745029",
+    "cardTransactionProductServiceReference" : "795023",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {},
+    "cardHolderReference" : "718130"
+  },
+  "batchRetrieveActionResponse" : "batchRetrieveActionResponse",
+  "batchRetrieveActionTaskReference" : "BRATR725824",
+  "batchInstanceReport" : {
+    "batchInstanceReport" : {},
+    "batchInstanceReportRecord" : {},
+    "batchInstanceReportType" : "batchInstanceReportType",
+    "batchInstanceReportParameters" : "batchInstanceReportParameters"
+  },
+  "batchInstanceAnalysis" : {
+    "batchInstanceAnalysisReport" : {},
+    "batchInstanceAnalysisRecord" : {},
+    "batchInstanceAnalysisParameters" : "batchInstanceAnalysisParameters",
+    "batchInstanceAnalysisReportType" : "batchInstanceAnalysisReportType"
+  },
+  "batchInstanceRecord" : {
+    "cardTransactionBatchReference" : "735557"
+  }
+}

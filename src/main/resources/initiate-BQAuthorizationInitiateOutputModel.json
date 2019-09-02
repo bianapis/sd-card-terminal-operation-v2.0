@@ -1,0 +1,9 @@
+{
+  "authorizationInitiateActionRecord" : {},
+  "authorizationInstanceStatus" : "authorizationInstanceStatus",
+  "authorizationInstanceReference" : "AIR702171",
+  "authorizationInitiateActionReference" : "AIAR750624",
+  "authorizationInstanceRecord" : {
+    "authorizationTransactionDateTime" : "09-22-2018"
+  }
+}

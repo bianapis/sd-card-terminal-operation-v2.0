@@ -1,0 +1,18 @@
+{
+  "cardPOSNetworkOperatingSessionInstanceRecord" : {
+    "cardPOSTerminalOperatingSchedule" : "cardPOSTerminalOperatingSchedule"
+  },
+  "cardPOSNetworkOperatingSessionInstanceAnalysis" : {
+    "cardPOSNetworkOperatingSessionInstanceAnalysisReportType" : "cardPOSNetworkOperatingSessionInstanceAnalysisReportType",
+    "cardPOSNetworkOperatingSessionInstanceAnalysisReport" : {},
+    "cardPOSNetworkOperatingSessionInstanceAnalysisData" : "cardPOSNetworkOperatingSessionInstanceAnalysisData"
+  },
+  "cardPOSNetworkOperatingSessionRetrieveActionTaskReference" : "CPNOSRATR732257",
+  "cardPOSNetworkOperatingSessionRetrieveActionResponse" : "cardPOSNetworkOperatingSessionRetrieveActionResponse",
+  "cardPOSNetworkOperatingSessionRetrieveActionTaskRecord" : {},
+  "cardPOSNetworkOperatingSessionInstanceReportRecord" : {
+    "cardPOSNetworkOperatingSessionInstanceReportData" : "cardPOSNetworkOperatingSessionInstanceReportData",
+    "cardPOSNetworkOperatingSessionInstanceReport" : {},
+    "cardPOSNetworkOperatingSessionInstanceReportType" : "cardPOSNetworkOperatingSessionInstanceReportType"
+  }
+}

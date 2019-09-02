@@ -1,0 +1,39 @@
+{
+  "cardPOSNetworkOperatingSessionInstanceRecord" : {
+    "cardPOSTerminalOperatingSchedule" : "cardPOSTerminalOperatingSchedule"
+  },
+  "captureRetrieveActionTaskReference" : "CRATR737753",
+  "captureInstanceReport" : {
+    "captureInstanceReportType" : "captureInstanceReportType",
+    "captureInstanceReport" : {},
+    "captureInstanceReportParameters" : "captureInstanceReportParameters",
+    "captureInstanceReportRecord" : {}
+  },
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "766325",
+    "cardTransactionMerchantReference" : "708645",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "728864",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "793787",
+    "cardTransactionLocationReference" : "788396",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionIssuedDeviceReference" : "701752",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "726206",
+    "cardTransactionProductServiceReference" : "710398",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {},
+    "cardHolderReference" : "776612"
+  },
+  "captureRetrieveActionTaskRecord" : {},
+  "captureRetrieveActionResponse" : "captureRetrieveActionResponse",
+  "captureInstanceAnalysis" : {
+    "captureInstanceAnalysisReportType" : "captureInstanceAnalysisReportType",
+    "captureInstanceAnalysisRecord" : {},
+    "captureInstanceAnalysisParameters" : "captureInstanceAnalysisParameters",
+    "captureInstanceAnalysisReport" : {}
+  }
+}

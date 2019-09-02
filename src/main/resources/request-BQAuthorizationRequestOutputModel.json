@@ -1,0 +1,28 @@
+{
+  "authorizationRequestActionTaskReference" : "ARATR741277",
+  "authorizationRequestRecordReference" : "ARRR782797",
+  "authorizationRequestActionTaskRecord" : {},
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "710763",
+    "cardTransactionMerchantReference" : "783195",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "752273",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "731256",
+    "cardTransactionLocationReference" : "719115",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionIssuedDeviceReference" : "760887",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "744425",
+    "cardTransactionProductServiceReference" : "742377",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {},
+    "cardHolderReference" : "766762"
+  },
+  "authorizationInstanceRecord" : {
+    "authorizationTransactionDateTime" : "09-22-2018"
+  },
+  "requestResponseRecord" : {}
+}

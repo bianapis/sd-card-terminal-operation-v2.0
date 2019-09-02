@@ -1,0 +1,28 @@
+{
+  "batchRequestActionTaskRecord" : {},
+  "batchRequestActionTaskReference" : "BRATR720706",
+  "batchRequestRecordReference" : "BRRR703937",
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "757649",
+    "cardTransactionMerchantReference" : "790307",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "717185",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "725858",
+    "cardTransactionLocationReference" : "704922",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionIssuedDeviceReference" : "743636",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "729479",
+    "cardTransactionProductServiceReference" : "708450",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {},
+    "cardHolderReference" : "732620"
+  },
+  "batchInstanceRecord" : {
+    "cardTransactionBatchReference" : "786811"
+  },
+  "requestResponseRecord" : {}
+}

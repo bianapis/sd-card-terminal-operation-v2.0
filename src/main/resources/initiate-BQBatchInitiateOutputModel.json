@@ -1,0 +1,9 @@
+{
+  "batchInitiateActionRecord" : {},
+  "batchInstanceStatus" : "batchInstanceStatus",
+  "batchInitiateActionReference" : "BIAR768182",
+  "batchInstanceRecord" : {
+    "cardTransactionBatchReference" : "789212"
+  },
+  "batchInstanceReference" : "BIR798314"
+}

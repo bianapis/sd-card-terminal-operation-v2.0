@@ -1,0 +1,27 @@
+{
+  "batchUpdateActionTaskRecord" : {},
+  "batchUpdateActionTaskReference" : "BUATR719039",
+  "updateResponseRecord" : {},
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "704151",
+    "cardTransactionMerchantReference" : "749003",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "726943",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "704915",
+    "cardTransactionLocationReference" : "780723",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionIssuedDeviceReference" : "792149",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "766393",
+    "cardTransactionProductServiceReference" : "741563",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {},
+    "cardHolderReference" : "706007"
+  },
+  "batchInstanceRecord" : {
+    "cardTransactionBatchReference" : "799757"
+  }
+}

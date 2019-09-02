@@ -1,0 +1,25 @@
+{
+  "captureRequestActionTaskReference" : "CRATR790459",
+  "captureRequestRecordReference" : "CRRR713143",
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "767961",
+    "cardTransactionMerchantReference" : "751412",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "787084",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "714868",
+    "cardTransactionLocationReference" : "764503",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionIssuedDeviceReference" : "743295",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "728506",
+    "cardTransactionProductServiceReference" : "718690",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {},
+    "cardHolderReference" : "786743"
+  },
+  "captureRequestActionTaskRecord" : {},
+  "requestResponseRecord" : {}
+}

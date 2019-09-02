@@ -1,0 +1,9 @@
+{
+  "cardPOSNetworkOperatingSessionInstanceRecord" : {
+    "cardPOSTerminalOperatingSchedule" : "cardPOSTerminalOperatingSchedule"
+  },
+  "cardPOSNetworkOperatingSessionInitiateActionReference" : "CPNOSIAR785036",
+  "cardPOSNetworkOperatingSessionInstanceReference" : "CPNOSIR716508",
+  "cardPOSNetworkOperatingSessionInitiateActionRecord" : {},
+  "cardPOSNetworkOperatingSessionInstanceStatus" : "cardPOSNetworkOperatingSessionInstanceStatus"
+}

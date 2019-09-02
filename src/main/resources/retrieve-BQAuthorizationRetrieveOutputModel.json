@@ -1,0 +1,42 @@
+{
+  "cardPOSNetworkOperatingSessionInstanceRecord" : {
+    "cardPOSTerminalOperatingSchedule" : "cardPOSTerminalOperatingSchedule"
+  },
+  "authorizationRetrieveActionTaskReference" : "ARATR725933",
+  "authorizationRetrieveActionTaskRecord" : {},
+  "authorizationInstanceAnalysis" : {
+    "authorizationInstanceAnalysisReport" : {},
+    "authorizationInstanceAnalysisParameters" : "authorizationInstanceAnalysisParameters",
+    "authorizationInstanceAnalysisReportType" : "authorizationInstanceAnalysisReportType",
+    "authorizationInstanceAnalysisRecord" : {}
+  },
+  "authorizationInstanceReport" : {
+    "authorizationInstanceReport" : {},
+    "authorizationInstanceReportRecord" : {},
+    "authorizationInstanceReportType" : "authorizationInstanceReportType",
+    "authorizationInstanceReportParameters" : "authorizationInstanceReportParameters"
+  },
+  "authorizationRetrieveActionResponse" : "authorizationRetrieveActionResponse",
+  "captureInstanceRecord" : {
+    "cardTransactionProductInstanceReference" : "779985",
+    "cardTransactionMerchantReference" : "786266",
+    "cardTransactionInterchargeFee" : "USD 250",
+    "cardTransactionIssuingBankReference" : "728354",
+    "cardTransactionType" : "cardTransactionType",
+    "cardTransactionMerchantAcquiringBankReference" : "759170",
+    "cardTransactionLocationReference" : "746538",
+    "cardTransactionCurrency" : "USD",
+    "cardTransactionIssuedDeviceReference" : "794226",
+    "cardTransactionAmountType" : "cardTransactionAmountType",
+    "cardTransactionFXConversionCharge" : "USD 250",
+    "cardTransactionNetworkReference" : "719690",
+    "cardTransactionProductServiceReference" : "788054",
+    "cardTransactionDateTime" : "09-22-2018",
+    "cardTransactionAmount" : "USD 250",
+    "cardTransactionAuthorizationRecord" : {},
+    "cardHolderReference" : "783529"
+  },
+  "authorizationInstanceRecord" : {
+    "authorizationTransactionDateTime" : "09-22-2018"
+  }
+}
